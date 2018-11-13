@@ -8,5 +8,3 @@ foreach(RECIPE ${RECIPES})
   get_directory_base(RECIPE_DIR ${RECIPE})
   install(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR}/${RECIPE} DESTINATION etc/cget/recipes/)
 endforeach()
-
-install(DIRECTORY cmake DESTINATION share/)

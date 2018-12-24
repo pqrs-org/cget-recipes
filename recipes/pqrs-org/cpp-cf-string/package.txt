@@ -1,1 +1,1 @@
-pqrs-org/cpp-environment_variable@v1.0.0 --cmake header
+pqrs-org/cpp-cf-string@v2.0.0 --cmake header

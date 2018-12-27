@@ -1,0 +1,3 @@
+gabime/spdlog@v1.2.1 --cmake header
+pqrs-org/cpp-dispatcher
+pqrs-org/cpp-filesystem

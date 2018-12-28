@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-number@v2.1.1 --cmake header
+pqrs-org/cpp-cf-number@v2.1.2 --cmake header

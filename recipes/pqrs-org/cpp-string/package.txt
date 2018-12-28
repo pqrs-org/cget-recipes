@@ -1,1 +1,1 @@
-pqrs-org/cpp-string@v1.1.1 --cmake header
+pqrs-org/cpp-string@v1.1.2 --cmake header

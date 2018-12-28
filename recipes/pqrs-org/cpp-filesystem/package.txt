@@ -1,1 +1,1 @@
-pqrs-org/cpp-filesystem@v1.1.1 --cmake header
+pqrs-org/cpp-filesystem@v1.1.2 --cmake header

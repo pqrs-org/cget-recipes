@@ -1,1 +1,1 @@
-pqrs-org/cpp-local_datagram@v2.0.0 --cmake header
+pqrs-org/cpp-local_datagram@v2.1.0 --cmake header

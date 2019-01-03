@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-file_monitor@v1.2.1 --cmake header
+pqrs-org/cpp-osx-file_monitor@v1.3.0 --cmake header

@@ -1,4 +1,4 @@
 fr00b0/nod
-gabime/spdlog@v1.2.1 --cmake header
+gabime/spdlog
 pqrs-org/cpp-dispatcher
 pqrs-org/cpp-filesystem

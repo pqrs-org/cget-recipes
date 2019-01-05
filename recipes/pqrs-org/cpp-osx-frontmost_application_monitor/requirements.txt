@@ -1,2 +1,2 @@
-fr00b0/nod@v0.5.0 --cmake header
+fr00b0/nod
 pqrs-org/cpp-dispatcher

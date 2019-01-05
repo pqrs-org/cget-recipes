@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-frontmost_application_monitor@v1.0.0 --cmake header
+pqrs-org/cpp-osx-frontmost_application_monitor@v1.0.0

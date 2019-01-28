@@ -1,0 +1,1 @@
+pqrs-org/cpp-hash@v1.0.0 --cmake header -H sha256:15802deb87f59320ad6bbf3fa00b2a45dffe6a50f9d5643e7c8da9ac51ecb91b

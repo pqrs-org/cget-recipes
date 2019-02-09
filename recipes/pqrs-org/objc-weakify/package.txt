@@ -1,1 +1,1 @@
-pqrs-org/objc-weakify@v1.0.0 --cmake header -H sha256:2bca69cbc7f0402224a9d541d25e8f324bfed8f8b3545edc207e716a33bf493c
+pqrs-org/objc-weakify@v1.0.1 --cmake header -H sha256:8638b6d68b0491a08fd58381677cca82480d66859c6e14fe407949189a8be210

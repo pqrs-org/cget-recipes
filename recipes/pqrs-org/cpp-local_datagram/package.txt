@@ -1,1 +1,1 @@
-pqrs-org/cpp-local_datagram@v2.5.0 --cmake header -H sha256:b82dd77687cdce567b44a4e0b060b767505a051a2f42af2e8e1ea9e91f5c4800
+pqrs-org/cpp-local_datagram@v2.6.0 --cmake header -H sha256:26f912e0ebe26347c0458bab3f0fb37f4cf27fd87011271d7440354d4ec005be

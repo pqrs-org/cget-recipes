@@ -1,1 +1,1 @@
-pqrs-org/cpp-dispatcher@v2.5.5 --cmake header -H sha256:3f8f882b5c7fda60fc231b64edc38d8ef0426edf597f69e9504ccc61a47c583d
+pqrs-org/cpp-dispatcher@v2.5.6 --cmake header -H sha256:5dd453749c37c13e4aae5dff911bb1bbb702a99c39c572c7860459292f728114

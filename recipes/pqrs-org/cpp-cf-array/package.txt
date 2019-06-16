@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-array@v2.0.10 --cmake header -H sha256:882b85eee8c5b3715c2719d47a4d1264105d5087d15788469cfe0e2861556dee
+pqrs-org/cpp-cf-array@v2.0.11 --cmake header -H sha256:1cd0774a006618d85db49042168876eaea388e25a3b65f301da647136ce42c71

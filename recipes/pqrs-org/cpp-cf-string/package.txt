@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-string@v2.1.0 --cmake header -H sha256:19af4b55aa922c54a4cad761676e569ed2a3cb6da29e64f5c4066464b1905014
+pqrs-org/cpp-cf-string@v2.1.1 --cmake header -H sha256:f98e8228da1339ff3e6f0534ee34b182a5fbe294f9ff90eba4ee2adfcea48de0

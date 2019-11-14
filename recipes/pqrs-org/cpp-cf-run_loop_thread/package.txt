@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-run_loop_thread@v2.0.11 --cmake header -H sha256:4e88220c00aad3c01a69ad0f6b0c7592a3c690eda637bc2da186fda1b28c3376
+pqrs-org/cpp-cf-run_loop_thread@v2.0.12 --cmake header -H sha256:823b641266a82b8b7391099ca312869536edcf90ab445ff1dcdf0db68fb6f2c8

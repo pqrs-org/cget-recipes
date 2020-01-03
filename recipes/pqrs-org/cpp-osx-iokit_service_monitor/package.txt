@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_service_monitor@v3.6.0 --cmake header -H sha256:a68f394e21ba19ae21f4368bd2eabc87c6ed1bad1fb8dc0d8730f310b6e351a8
+pqrs-org/cpp-osx-iokit_service_monitor@v3.6.1 --cmake header -H sha256:86af2f530e8c4d7db192a4afc63d8029e56ba5878e63d3bdc4b7084ed73a1de7

@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-chrono@v2.1.13 --cmake header -H sha256:485f4b83b0975244fcad5e66aa954271dd6d884f23a75031a478c312557a6c08
+pqrs-org/cpp-osx-chrono@v2.2.0 --cmake header -H sha256:d3cbf2ade2a6160b6c62aa6a95f9c0c597f1f37b44f85831a2c5a18a3f845fb9

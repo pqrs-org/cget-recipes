@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-session@v3.0.4 --cmake header -H sha256:792d286474ddab9d4feaa429c9223beacb07b36ff051153144f2d5c331aaf6da
+pqrs-org/cpp-osx-session@v3.0.5 --cmake header -H sha256:21f2dde296fa648b9c450c0409753d59f76e8f06502e9cce59c2757e86877143

@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-file_monitor@v1.5.11 --cmake header -H sha256:cdf03325cd50c9cc2340e73d2d56e68b2062791844c2419fb9c2120a3d3e50fc
+pqrs-org/cpp-osx-file_monitor@v1.5.12 --cmake header -H sha256:509c0c10c69d0417af191112c3e1c1345bf4f9bde7804b32a2bd1c95a03fa3be

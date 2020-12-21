@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-json_file_monitor@v1.0.11 --cmake header -H sha256:b28ca4605ae1a8bade10abe093b8168319ea33561da8ee79a8f02c3927a95210
+pqrs-org/cpp-osx-json_file_monitor@v1.0.12 --cmake header -H sha256:05f5d495de28aeb59199eb7f38c7349b7e0b4f4a633921ab64e60ada16effc02

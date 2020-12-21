@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-boolean@v1.0.7 --cmake header -H sha256:86974bb9210cb262af7896b6d31ebd37c155833aa9792a40114f53d2b5a43dc0
+pqrs-org/cpp-cf-boolean@v1.0.8 --cmake header -H sha256:f921cb52342ba982af46a02f447af6361983b685bb87cd6ac4568fa3352b60c8

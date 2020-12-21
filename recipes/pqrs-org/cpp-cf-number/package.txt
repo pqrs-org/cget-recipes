@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-number@v2.1.15 --cmake header -H sha256:5770d9ba572cb7626c446501228d536a6bc88c90675b3f0559e4fc64c5371687
+pqrs-org/cpp-cf-number@v2.1.16 --cmake header -H sha256:d26723a9bb05d0a2b5d3f0b5e20f315872d2d0e27d01bf56f028f8024091def7

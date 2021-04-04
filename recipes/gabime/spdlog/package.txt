@@ -1,1 +1,1 @@
-gabime/spdlog@v1.7.0 --cmake header -H sha256:f0114a4d3c88be9e696762f37a7c379619443ce9d668546c61b21d41affe5b62
+gabime/spdlog@v1.8.5 --cmake header -H sha256:944d0bd7c763ac721398dca2bb0f3b5ed16f67cef36810ede5061f35a543b4b8

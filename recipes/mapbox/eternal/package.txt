@@ -1,1 +1,1 @@
-mapbox/eternal@dd2f5b9ff38fcd36b59efd9d289127fa73efc6cb --cmake header -H sha256:4dbdce9a659753fe95bbbeee14c08d7ec93a5ec4517d8532eeafe5b102183914
+mapbox/eternal@v1.0.1 --cmake header -H sha256:7d799381b3786d0bd987eea75df2a81f581a64ee962e922a2f7a7d3d0c3d0421

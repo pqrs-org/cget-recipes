@@ -1,1 +1,1 @@
-pqrs-org/cpp-environment_variable@v1.0.17 --cmake header -H sha256:f741283651e721fcfb959d3b386276610a8e5cfc01d9aebb4d943a4f916b7d79
+pqrs-org/cpp-environment_variable@v1.0.18 --cmake header -H sha256:bf72d2b70704277bde9c3dfc409c239002250495b1a40b829bb55577d4962065

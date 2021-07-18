@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-kern_return@v1.0.5 --cmake header -H sha256:dad6b685e68203b287d7a0237be00baa33f1e012b38aad2ba87f327e16f38b0b
+pqrs-org/cpp-osx-kern_return@v1.0.6 --cmake header -H sha256:42f4bbef39ea1238fa26423225a5bed5fbd781e8a9a108d6f2d80bc213d456c2

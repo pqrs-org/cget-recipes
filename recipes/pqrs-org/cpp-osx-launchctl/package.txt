@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-launchctl@v2.1.1 --cmake header -H sha256:eaf013810593345b5ac2e15f9547673943b91104ee6fc959ce70f312b9cb570b
+pqrs-org/cpp-osx-launchctl@v2.1.2 --cmake header -H sha256:89146cb582cb07de9353e823f52e9b7c8996066f998da931c0a55cc5de6cb548

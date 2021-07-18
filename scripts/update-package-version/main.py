@@ -10,7 +10,7 @@ from github import Github
 
 g = Github(os.environ.get('GITHUB_TOKEN'))
 
-recipes_directory = Path(__file__).resolve(True).parents[1] / 'recipes'
+recipes_directory = Path(__file__).resolve(True).parents[2] / 'recipes'
 package_txt_files = recipes_directory.glob('**/package.txt')
 for package_txt_file_path in package_txt_files:
     with package_txt_file_path.open('r+') as package_txt_file:

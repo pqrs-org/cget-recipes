@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-cg_event@v1.0.3 --cmake header -H sha256:7f17fffe91b09acc1446d0aa79855e719284311e0dfe52cf8da044438d622264
+pqrs-org/cpp-osx-cg_event@v1.0.6 --cmake header -H sha256:42b3807c8d6742da8a1db7f3fa049e8e6662fede1c1ef978298d8c82967b0ae1

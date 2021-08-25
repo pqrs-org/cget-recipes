@@ -1,1 +1,1 @@
-chriskohlhoff/asio@asio-1-19-1 --cmake header -DINCLUDE_DIR=asio/include -H sha256:2555e0a29256de5c77d6a34b14faefd28c76555e094ba0371acb0b91d483520e
+chriskohlhoff/asio@asio-1-19-2 --cmake header -DINCLUDE_DIR=asio/include -H sha256:5ee191aee825dfb1325cbacf643d599b186de057c88464ea98f1bae5ba4ff47a

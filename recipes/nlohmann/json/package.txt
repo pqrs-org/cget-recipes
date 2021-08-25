@@ -1,1 +1,1 @@
-nlohmann/json@v3.9.1 --cmake header -H sha256:4cf0df69731494668bdd6460ed8cb269b68de9c19ad8c27abc24cd72605b2d5b
+nlohmann/json@v3.10.1 --cmake header -H sha256:c35d8c867f7cde3f6100c3f5dbe999667f77f075cd802bbd37080bd63ceb94c4

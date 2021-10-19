@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_hid_device_open_checker@v1.2.24 --cmake header -H sha256:95f1e114dab900d4d432bf37eeeb40190dade4d05a5bf1e5a287e77b60772f18
+pqrs-org/cpp-osx-iokit_hid_device_open_checker@v1.2.25 --cmake header -H sha256:d2366a331dbc7ae0ae60a9dc941df6d40d808a80a8373a3fe6a9a3d949d92176

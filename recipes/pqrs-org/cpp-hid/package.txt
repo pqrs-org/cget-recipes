@@ -1,1 +1,1 @@
-pqrs-org/cpp-hid@v2.8.0 --cmake header -H sha256:8aaf5aa4c33f66a5d3731bd6a8fa2ecb44571d13fbd89fe90336fb980304651f
+pqrs-org/cpp-hid@v2.8.1 --cmake header -H sha256:2b5d09a8942638b896c6d038da370616c855392ea56a11408c10eb711ef2fd99

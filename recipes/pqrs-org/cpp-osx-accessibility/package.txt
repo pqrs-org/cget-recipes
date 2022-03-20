@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-accessibility@v1.1.1 --cmake header -H sha256:914efe2b6b0fef003164cecb395ffe1e6faa12927f9b1f48db11c0c2fa8c70bb
+pqrs-org/cpp-osx-accessibility@v1.1.2 --cmake header -H sha256:8d1e7c8daffabf1e0911f0b5badea2919115672af8c8e2ed8bcd5f42954e604f

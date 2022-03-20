@@ -1,1 +1,1 @@
-pqrs-org/cpp-string@v1.5.2 --cmake header -H sha256:52a0843c0976806be03231e123bd1554dc5d31c9599c491437800b355e47d55a
+pqrs-org/cpp-string@v1.5.3 --cmake header -H sha256:7cb63d23b5f8140e1f1f57f3706bd545791fcff693d2efb4f40276915af73def

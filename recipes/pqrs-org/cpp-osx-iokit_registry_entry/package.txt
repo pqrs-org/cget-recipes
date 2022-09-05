@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_registry_entry@v3.0.2 --cmake header -H sha256:e9fa37342a372a85cdc8720f57bfb59ef8f080a227776992097fc0e1856914a3
+pqrs-org/cpp-osx-iokit_registry_entry@v3.0.3 --cmake header -H sha256:2423157f9fd22b3d99993b78828830ffa919427023a8c37e89dea8ab97667a58

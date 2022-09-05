@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_hid_event_system_client@v1.1.19 --cmake header -H sha256:85c2026d852d8e4eeddf48ae5216d21b02666c2141aeee047d71339ce9998419
+pqrs-org/cpp-osx-iokit_hid_event_system_client@v1.1.20 --cmake header -H sha256:fbe641d82cfe5b06831aad423d0011dc07662f77680b28fda7ac6cf2f5278675

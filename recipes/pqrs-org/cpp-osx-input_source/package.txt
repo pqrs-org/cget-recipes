@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-input_source@v3.5.18 --cmake header -H sha256:4f99f9f8b59f53b931ae724d00ed95004505f6352920c99bfc54e340eac40a3f
+pqrs-org/cpp-osx-input_source@v3.5.19 --cmake header -H sha256:dd2c9922623cf069b7fbf168c1cdce3b847d91f57dd11c20be4c7be3949929b8

@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_hid_queue_value_monitor@v1.12.49 --cmake header -H sha256:06bf27db46d0c801debc1c927430bf66f30d0da65afedeca7e1aa04aa2de7dee
+pqrs-org/cpp-osx-iokit_hid_queue_value_monitor@v1.12.50 --cmake header -H sha256:3a481bd18051e0192d0eecf1758f99a99e8ac7e6cc70df752ff92493c6734a2a

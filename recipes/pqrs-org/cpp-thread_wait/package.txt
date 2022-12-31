@@ -1,1 +1,1 @@
-pqrs-org/cpp-thread_wait@v1.3.27 --cmake header -H sha256:ff8327551422a01cd71a80757b265cd1976f8ddf570870091b860435b24f5171
+pqrs-org/cpp-thread_wait@v1.4.0 --cmake header -H sha256:a1947b100b03965f2aea321c7b6afb22a3a0a4db850a41c7b9522dbf9e33101f

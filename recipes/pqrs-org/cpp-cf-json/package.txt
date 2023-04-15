@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-json@v2.2.21 --cmake header -H sha256:de668b9db56c697ecab7364707fec6c90af7afba0ba72d71861df0af1d2a443d
+pqrs-org/cpp-cf-json@v2.2.22 --cmake header -H sha256:8cdb45b1ee244be0132a71b2c9d6906ffcaad82c1cf63bb52334708e90d9e188

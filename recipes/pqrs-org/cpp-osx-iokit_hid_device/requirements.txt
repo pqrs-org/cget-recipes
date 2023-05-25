@@ -1,4 +1,5 @@
 pqrs-org/cpp-cf-array
 pqrs-org/cpp-cf-string
 pqrs-org/cpp-hid
+pqrs-org/cpp-osx-iokit_registry_entry
 pqrs-org/cpp-osx-iokit_types

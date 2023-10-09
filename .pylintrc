@@ -1,0 +1,12 @@
+[DESIGN]
+
+max-branches=30
+max-locals=30
+
+[FORMAT]
+
+max-line-length=500
+max-module-lines=1000
+
+[IMPORTS]
+known-third-party=Github

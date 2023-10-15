@@ -1,1 +1,1 @@
-pqrs-org/cpp-shell@v1.1.26 --cmake header -H sha256:a69f408fb3fd5d333783777675edceaf3c5855664cd809f792224aab5ce5d559
+pqrs-org/cpp-shell@v1.1.27 --cmake header -H sha256:68a98749c29f72fa7ed4fa0aa798effed8f067039595e3a750ea3f1acffa6629

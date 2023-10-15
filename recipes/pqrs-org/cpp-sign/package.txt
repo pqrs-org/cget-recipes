@@ -1,1 +1,1 @@
-pqrs-org/cpp-sign@v1.0.19 --cmake header -H sha256:b82cef1472be4995f76cde1a7e4b74ae7aeee25d2e36419a5799ce580fe9891f
+pqrs-org/cpp-sign@v1.0.20 --cmake header -H sha256:2342dc0785016b4de2b71d31c6b2e6b6d948816cd7f95ed0d36368fa0263b8ea

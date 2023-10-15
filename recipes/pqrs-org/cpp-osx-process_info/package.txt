@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-process_info@v2.3.0 -H sha256:5b583d6d9fcf946e518a49be96643e5e4fc0d184f1b6d59b83194ee3bfb1f848
+pqrs-org/cpp-osx-process_info@v2.3.1 -H sha256:54a5368f48323709a722ba7142f548979732e7248264d10da88947f45fb2a044

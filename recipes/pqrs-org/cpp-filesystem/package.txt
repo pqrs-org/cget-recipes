@@ -1,1 +1,1 @@
-pqrs-org/cpp-filesystem@v1.2.18 --cmake header -H sha256:ec9c124e79d01e531f2ae22f884e147070c246d04bef1f9066c142fa87e412c4
+pqrs-org/cpp-filesystem@v1.2.19 --cmake header -H sha256:3031dee8cdcf7eaded7a18cb749785534be59013a08abc2da09ca6605176c0be

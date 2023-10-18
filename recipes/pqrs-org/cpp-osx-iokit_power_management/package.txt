@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_power_management@v1.0.4 --cmake header -H sha256:ef4b7eb4d952e487085484312089ee7c857bc0a8f864494fef810582da2b616b
+pqrs-org/cpp-osx-iokit_power_management@v1.0.5 --cmake header -H sha256:6b390f76f83344acb4a216f76f968c2064467e8eb874fa96d6b41df838e6d314

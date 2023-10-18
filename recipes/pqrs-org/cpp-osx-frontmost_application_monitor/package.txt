@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-frontmost_application_monitor@v4.5.2 -H sha256:52329331a7dffde033bea93e7372ee7c50f34266efcd6c9e77c616acc1982824
+pqrs-org/cpp-osx-frontmost_application_monitor@v4.5.3 -H sha256:a06b03896600cbf6bcc3bc3ad7d5ee086f1b006c49ddc379ca158c6213a5f887

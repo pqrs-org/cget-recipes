@@ -1,1 +1,1 @@
-nemtrif/utfcpp@v3.2.5 --cmake utfcpp.cmake -DINCLUDE_DIR=source -DHEADER_DIR=utf8cpp -H sha256:14fd1b3c466814cb4c40771b7f207b61d2c7a0aa6a5e620ca05c00df27f25afd
+nemtrif/utfcpp@v4.0.3 --cmake utfcpp.cmake -DINCLUDE_DIR=source -DHEADER_DIR=utf8cpp -H sha256:05e7d023b2bf606777442efc49038e0efce317596582db15adf5c776e237a326

@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-workspace@v2.3.1 -H sha256:5711590cdd2f3ed025c999043b5acea9e1a175b087a1559d2610d8af1edb880c
+pqrs-org/cpp-osx-workspace@v2.3.2 -H sha256:85e60fa8f3d629778555f41a074295cedf139512d8388f1ce99bf22ad4ac4061

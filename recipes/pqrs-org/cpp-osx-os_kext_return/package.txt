@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-os_kext_return@v2.0.18 --cmake header -H sha256:71496e91dc5dc5622c1f96ffbfeda09d3c4d51396c1782dc0ecf0f9922b6e522
+pqrs-org/cpp-osx-os_kext_return@v2.0.19 --cmake header -H sha256:5c6e1070f28626c13290af27386a0b09d15578c5be06a0665e19dcaa03a90f14

@@ -1,1 +1,1 @@
-foonathan/type_safe@v0.2.3 --cmake header -H sha256:19008ab9526b0d2db1ae6bbd6640f5f7a398826bb2266561472e9f1b10d85bec
+foonathan/type_safe@v0.2.4 --cmake header -H sha256:a631d03c18c65726b3d1b7d41ac5806e9121367afe10dd2f408a2d75e144b734

@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_hid_device_report_monitor@v1.0.18 --cmake header -H sha256:7ca416c27caceb40421f0acb6ff293612cb5324c57400d30c4a169819b30bf54
+pqrs-org/cpp-osx-iokit_hid_device_report_monitor@v1.1.0 --cmake header -H sha256:140a77c7c1e409142fcb1443a47cc218c0309ff1f6c2b14267a0c7b5f683c890

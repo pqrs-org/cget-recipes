@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_iterator@v1.1.28 --cmake header -H sha256:635a66846e240fe3a333dd9dfac67062f9cfce916d89859757456db4fd3010da
+pqrs-org/cpp-osx-iokit_iterator@v1.1.29 --cmake header -H sha256:e811e5d1f975dc685f15a03977ed6fe6ca4e7e926bdff39cd2ee8f68616183e7

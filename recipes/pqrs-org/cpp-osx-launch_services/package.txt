@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-launch_services@v1.0.5 --cmake header -H sha256:10f42d5d5ad3c497bd4bbd4d153a1fd93ecb3cef2652c6739d36f199a8911778
+pqrs-org/cpp-osx-launch_services@v1.1.0 --cmake header -H sha256:18bbb8d90fe016246c51295608ff00150ea390516524e0a5faeced8900f11524

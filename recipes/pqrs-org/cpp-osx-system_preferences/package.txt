@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-system_preferences@v5.0.18 --cmake header -H sha256:3e7c10dd1e75bf7335182bdad6074986df766ec7d90c933947b2aa9d22596120
+pqrs-org/cpp-osx-system_preferences@v5.0.19 --cmake header -H sha256:64eb28bf42d28d10c900bfefa58a70a37e1fc3de06ee482ce8fb702cb8eb0db1

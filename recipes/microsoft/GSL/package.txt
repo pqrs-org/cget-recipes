@@ -1,1 +1,1 @@
-microsoft/GSL@v4.0.0 --cmake header -H sha256:f0e32cb10654fea91ad56bde89170d78cfbf4363ee0b01d8f097de2ba49f6ce9
+microsoft/GSL@v4.0.0 --cmake gsl.cmake -H sha256:f0e32cb10654fea91ad56bde89170d78cfbf4363ee0b01d8f097de2ba49f6ce9

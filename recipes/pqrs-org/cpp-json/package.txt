@@ -1,1 +1,1 @@
-pqrs-org/cpp-json@v1.6.0 --cmake header -H sha256:ce703c12912330cdbdad0c180939923474f522cd0e1f29a8ed198805df91f5fd
+pqrs-org/cpp-json@v1.7.0 --cmake header -H sha256:40a8d6d7bb02d162b63ee56cbc4bd4c8b1f8a24a2798bc5ea6a675b076208e54

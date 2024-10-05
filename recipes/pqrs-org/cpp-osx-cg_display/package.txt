@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-cg_display@v1.2.6 --cmake header -H sha256:3fd0922a6cb78484c3e55f2d1436d2636802718ee7061ed6ced5bd04beb79ce2
+pqrs-org/cpp-osx-cg_display@v1.2.7 --cmake header -H sha256:e4195587e72a0bfdc94e7acb491e3a82bb62cb2f674bf6fdb9f8bb606e629778

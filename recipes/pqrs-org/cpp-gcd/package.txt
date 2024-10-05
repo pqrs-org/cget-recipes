@@ -1,1 +1,1 @@
-pqrs-org/cpp-gcd@v1.2.19 --cmake header -H sha256:979e53343793a72edee347d47d47435f187bfccaf31ca4b552ff236bd032e093
+pqrs-org/cpp-gcd@v1.2.20 --cmake header -H sha256:c7fd8b84c2a9706a627cf6147879a82e91fa034c632513986608974dd5c1fa02

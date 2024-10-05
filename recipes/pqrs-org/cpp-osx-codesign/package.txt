@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-codesign@v1.1.26 --cmake header -H sha256:797678a3b1c89924d03a129f4fc518a820fb9d04e9a4ad661385f7691e2e9713
+pqrs-org/cpp-osx-codesign@v1.1.27 --cmake header -H sha256:4626e5ea12ee3b25258e14c9f06b4ee9584f5b34008ff27087931f89fe475437

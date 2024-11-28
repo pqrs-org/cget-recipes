@@ -1,1 +1,1 @@
-pqrs-org/cpp-spdlog@v2.3.19 --cmake header -H sha256:dcc269f9c8d176feb2506dbf58356eca567c9c5970ab9c5be556bdfa9f941667
+pqrs-org/cpp-spdlog@v2.3.20 --cmake header -H sha256:9fa238a057c3ee41bf0f0dd28d981b932280f36959f36b2a344eb476170946bf

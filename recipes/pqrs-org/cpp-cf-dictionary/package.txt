@@ -1,1 +1,1 @@
-pqrs-org/cpp-cf-dictionary@v1.1.6 --cmake header -H sha256:a48449e566457ca42c6937930177107627a15845e33fedd9f6ba4401c7389d1b
+pqrs-org/cpp-cf-dictionary@v1.1.7 --cmake header -H sha256:74e40d94cac0d5c7f5643b576e3a5cbcab4c20965dc2a0c79b7169344ced8d49

@@ -1,1 +1,1 @@
-pqrs-org/cpp-process@v1.4.1 --cmake header -H sha256:1970930c6f7f5ea903ea3d5c5f2a8e199c5d38e9a7d7cc0732a4e77f0c0e6fbf
+pqrs-org/cpp-process@v1.4.2 --cmake header -H sha256:52ddbc79346ea069b4e62826ef0d1976bcbb0d861c0f6a28ca09b9a64e52da80

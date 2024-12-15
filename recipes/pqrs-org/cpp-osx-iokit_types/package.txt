@@ -1,1 +1,1 @@
-pqrs-org/cpp-osx-iokit_types@v6.2.26 --cmake header -H sha256:e4b0752557d52c02a235c70cf0f05808c12f9bdc3239a46d5e0bc910614bd75a
+pqrs-org/cpp-osx-iokit_types@v6.2.27 --cmake header -H sha256:2a4e966a5c771080b63706cf7d9f15184ce7f2c1b11ae755c312779e94671815

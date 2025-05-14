@@ -1,1 +1,1 @@
-microsoft/GSL@v4.1.0 --cmake gsl.cmake -H sha256:0a227fc9c8e0bf25115f401b9a46c2a68cd28f299d24ab195284eb3f1d7794bd
+microsoft/GSL@v4.2.0 --cmake gsl.cmake -H sha256:2c717545a073649126cb99ebd493fa2ae23120077968795d2c69cbab821e4ac6

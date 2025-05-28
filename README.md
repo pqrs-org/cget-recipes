@@ -1,3 +1,5 @@
+⚠️⚠️⚠️ This repository has been migrated to [pqrs-org/cpm-cmake-package-lock](https://github.com/pqrs-org/cpm-cmake-package-lock) ⚠️⚠️⚠️
+
 # cget-recipes
 
 Recipes for [cget](https://github.com/pfultz2/cget).
